@@ -1,5 +1,5 @@
-# 💫 About Me:
-.Net Developer and curious about security.
+<h1 align="center">Hi 👋, I'm Saman Qaydi</h1>
+<h3 align="center">A .Net developer and something else.</h3>
 
 
 ## 🌐 Socials:
